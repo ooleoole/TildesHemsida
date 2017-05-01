@@ -1,0 +1,14 @@
+﻿#Header {
+    font-family: monospace;
+    font-size: 72px;
+    background: -webkit-linear-gradient(plum, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#input {
+    width: 80%;
+}
+#inputForm {
+    align-content: center
+}
