@@ -77,7 +77,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Css\Style.css" />
+    <Content Include="Images\cat.jpg" />
+    <Content Include="Images\farm.jpg" />
+    <Content Include="Images\farmer.jpg" />
+    <Content Include="Images\hay.jpg" />
+    <Content Include="Images\horse.jpg" />
+    <Content Include="Images\john-deere-traktor.jpg" />
     <Content Include="Images\kor-majorns-hage.JPG" />
+    <Content Include="Images\pig.jpg" />
     <Content Include="Images\staket-i-hage.jpg" />
     <Content Include="Views\TildesHemsida.html" />
     <Content Include="Web.config" />
