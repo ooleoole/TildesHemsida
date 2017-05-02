@@ -2,9 +2,7 @@ var FarmSearch;
 (function (FarmSearch_1) {
     window.onload = function () {
         var farmSearch = new FarmSearch();
-        document.getElementById("searchButton").onclick = function () {
-            farmSearch.getImage();
-        };
+        document.getElementById("searchButton").onclick = function () { return farmSearch.getImage(); };
     };
     var FarmSearch = (function () {
         function FarmSearch() {

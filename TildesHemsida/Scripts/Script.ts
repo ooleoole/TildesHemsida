@@ -3,10 +3,10 @@
     window.onload = () =>
     {
         var farmSearch = new FarmSearch();
-        document.getElementById("searchButton").onclick = () =>
-        {
-            farmSearch.getImage();
-        };
+        document.getElementById("searchButton").onclick = () => farmSearch.getImage();
+        
+            
+        
     };
 
     class FarmSearch
